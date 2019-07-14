@@ -1,2 +1,2 @@
 # DualCoreCPU
-Simple Dual Core CPU
+You need to install Logism to see the project.
